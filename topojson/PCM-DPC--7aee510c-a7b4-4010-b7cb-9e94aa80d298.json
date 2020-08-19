@@ -1,0 +1,1045 @@
+{
+    "type": "Topology",
+    "arcs": [
+        [
+            [
+                776,
+                1107
+            ],
+            [
+                50,
+                -2
+            ],
+            [
+                50,
+                14
+            ],
+            [
+                50,
+                -2
+            ],
+            [
+                49,
+                -66
+            ],
+            [
+                47,
+                -194
+            ],
+            [
+                -2,
+                -192
+            ],
+            [
+                -51,
+                -94
+            ],
+            [
+                -26,
+                -95
+            ],
+            [
+                -25,
+                -47
+            ],
+            [
+                -50,
+                -46
+            ],
+            [
+                -50,
+                -62
+            ],
+            [
+                -50,
+                -14
+            ],
+            [
+                -50,
+                -5
+            ],
+            [
+                -49,
+                0
+            ],
+            [
+                -50,
+                1
+            ],
+            [
+                -99,
+                4
+            ],
+            [
+                -50,
+                -5
+            ],
+            [
+                -49,
+                2
+            ],
+            [
+                -51,
+                -62
+            ],
+            [
+                -99,
+                4
+            ],
+            [
+                -49,
+                -15
+            ],
+            [
+                -50,
+                5
+            ],
+            [
+                -50,
+                7
+            ],
+            [
+                -49,
+                26
+            ],
+            [
+                -73,
+                147
+            ],
+            [
+                26,
+                95
+            ],
+            [
+                17,
+                95
+            ],
+            [
+                9,
+                96
+            ],
+            [
+                127,
+                236
+            ],
+            [
+                50,
+                22
+            ],
+            [
+                49,
+                8
+            ],
+            [
+                50,
+                3
+            ],
+            [
+                50,
+                -1
+            ],
+            [
+                49,
+                -1
+            ],
+            [
+                13,
+                7
+            ],
+            [
+                38,
+                70
+            ],
+            [
+                49,
+                3
+            ],
+            [
+                50,
+                6
+            ],
+            [
+                50,
+                1
+            ],
+            [
+                50,
+                -1
+            ],
+            [
+                49,
+                -2
+            ],
+            [
+                25,
+                7
+            ],
+            [
+                25,
+                47
+            ]
+        ],
+        [
+            [
+                878,
+                1295
+            ],
+            [
+                50,
+                14
+            ],
+            [
+                49,
+                11
+            ],
+            [
+                50,
+                1
+            ],
+            [
+                99,
+                -20
+            ],
+            [
+                50,
+                -18
+            ],
+            [
+                24,
+                -49
+            ],
+            [
+                7,
+                -97
+            ],
+            [
+                -9,
+                -95
+            ],
+            [
+                -3,
+                -288
+            ],
+            [
+                -51,
+                -94
+            ],
+            [
+                -1,
+                -96
+            ],
+            [
+                -26,
+                -95
+            ],
+            [
+                -51,
+                -94
+            ],
+            [
+                -50,
+                -70
+            ],
+            [
+                -50,
+                -6
+            ],
+            [
+                -49,
+                -2
+            ],
+            [
+                -25,
+                -11
+            ],
+            [
+                -26,
+                -47
+            ],
+            [
+                -49,
+                50
+            ],
+            [
+                -50,
+                -46
+            ],
+            [
+                -50,
+                -22
+            ],
+            [
+                -49,
+                10
+            ],
+            [
+                -50,
+                -11
+            ],
+            [
+                -49,
+                -2
+            ],
+            [
+                -50,
+                6
+            ],
+            [
+                -50,
+                -4
+            ],
+            [
+                -49,
+                2
+            ],
+            [
+                -50,
+                0
+            ],
+            [
+                -49,
+                6
+            ],
+            [
+                -50,
+                10
+            ],
+            [
+                -49,
+                25
+            ],
+            [
+                -25,
+                49
+            ],
+            [
+                1,
+                96
+            ],
+            [
+                -48,
+                98
+            ],
+            [
+                1,
+                96
+            ],
+            [
+                -49,
+                98
+            ],
+            [
+                76,
+                141
+            ],
+            [
+                50,
+                23
+            ],
+            [
+                16,
+                23
+            ],
+            [
+                34,
+                63
+            ],
+            [
+                17,
+                31
+            ],
+            [
+                34,
+                63
+            ],
+            [
+                50,
+                30
+            ],
+            [
+                50,
+                70
+            ],
+            [
+                50,
+                11
+            ],
+            [
+                50,
+                0
+            ],
+            [
+                24,
+                9
+            ],
+            [
+                26,
+                47
+            ],
+            [
+                49,
+                -2
+            ],
+            [
+                50,
+                22
+            ],
+            [
+                50,
+                3
+            ],
+            [
+                50,
+                5
+            ],
+            [
+                50,
+                -1
+            ],
+            [
+                24,
+                10
+            ],
+            [
+                26,
+                47
+            ]
+        ],
+        [
+            [
+                1076,
+                1287
+            ],
+            [
+                50,
+                22
+            ],
+            [
+                50,
+                6
+            ],
+            [
+                50,
+                0
+            ],
+            [
+                99,
+                -4
+            ],
+            [
+                50,
+                -8
+            ],
+            [
+                49,
+                -15
+            ],
+            [
+                49,
+                -66
+            ],
+            [
+                49,
+                -50
+            ],
+            [
+                73,
+                -147
+            ],
+            [
+                -51,
+                -94
+            ],
+            [
+                49,
+                -98
+            ],
+            [
+                -1,
+                -96
+            ],
+            [
+                -51,
+                -94
+            ],
+            [
+                -1,
+                -96
+            ],
+            [
+                -26,
+                -47
+            ],
+            [
+                -50,
+                -46
+            ],
+            [
+                -1,
+                -96
+            ],
+            [
+                -50,
+                -62
+            ],
+            [
+                -50,
+                -30
+            ],
+            [
+                -26,
+                -95
+            ],
+            [
+                -76,
+                -141
+            ],
+            [
+                -50,
+                -22
+            ],
+            [
+                -49,
+                -2
+            ],
+            [
+                -546,
+                22
+            ],
+            [
+                -49,
+                6
+            ],
+            [
+                -50,
+                2
+            ],
+            [
+                -49,
+                26
+            ],
+            [
+                -73,
+                147
+            ],
+            [
+                50,
+                94
+            ],
+            [
+                4,
+                384
+            ],
+            [
+                51,
+                94
+            ],
+            [
+                1,
+                96
+            ],
+            [
+                51,
+                95
+            ],
+            [
+                1,
+                96
+            ],
+            [
+                25,
+                47
+            ],
+            [
+                50,
+                22
+            ],
+            [
+                49,
+                3
+            ],
+            [
+                50,
+                17
+            ],
+            [
+                51,
+                62
+            ],
+            [
+                49,
+                11
+            ],
+            [
+                50,
+                1
+            ],
+            [
+                149,
+                -6
+            ],
+            [
+                25,
+                15
+            ],
+            [
+                25,
+                47
+            ]
+        ],
+        [
+            [
+                825,
+                1009
+            ],
+            [
+                50,
+                22
+            ],
+            [
+                50,
+                6
+            ],
+            [
+                49,
+                0
+            ],
+            [
+                546,
+                -23
+            ],
+            [
+                50,
+                -4
+            ],
+            [
+                50,
+                -6
+            ],
+            [
+                49,
+                -15
+            ],
+            [
+                49,
+                -66
+            ],
+            [
+                -6,
+                -480
+            ],
+            [
+                -101,
+                -188
+            ],
+            [
+                -26,
+                -95
+            ],
+            [
+                -25,
+                -46
+            ],
+            [
+                -51,
+                -46
+            ],
+            [
+                -50,
+                -62
+            ],
+            [
+                -50,
+                -6
+            ],
+            [
+                -49,
+                26
+            ],
+            [
+                -24,
+                49
+            ],
+            [
+                -25,
+                17
+            ],
+            [
+                -99,
+                4
+            ],
+            [
+                -49,
+                6
+            ],
+            [
+                -100,
+                4
+            ],
+            [
+                -49,
+                7
+            ],
+            [
+                -99,
+                4
+            ],
+            [
+                -50,
+                26
+            ],
+            [
+                -24,
+                49
+            ],
+            [
+                -24,
+                20
+            ],
+            [
+                -50,
+                7
+            ],
+            [
+                -49,
+                26
+            ],
+            [
+                -25,
+                49
+            ],
+            [
+                1,
+                96
+            ],
+            [
+                -23,
+                97
+            ],
+            [
+                25,
+                95
+            ],
+            [
+                51,
+                94
+            ],
+            [
+                2,
+                192
+            ],
+            [
+                76,
+                141
+            ]
+        ]
+    ],
+    "transform": {
+        "scale": [
+            0.00024514703450852416,
+            0.00009374163712090746
+        ],
+        "translate": [
+            14.044928550720215,
+            42.432472229003906
+        ]
+    },
+    "objects": {
+        "PCM-DPC--7aee510c-a7b4-4010-b7cb-9e94aa80d298": {
+            "type": "GeometryCollection",
+            "geometries": [
+                {
+                    "arcs": [
+                        [0]
+                    ],
+                    "type": "Polygon",
+                    "properties": {
+                        "id": 1,
+                        "Name": "115004 Città Sant'Angelo (PE)",
+                        "Time": "2020-06-10T11:55+30",
+                        "featureStatus": "Updated",
+                        "capData": {
+                            "identifier": "e0826d22-270e-4060-9761-5117abe1fef1",
+                            "sender": "PCM-DPC",
+                            "sent": "2020-06-10T11:55:00+00:00",
+                            "source": "DPC-Centro-Funzionale-Centrale",
+                            "effective": "2020-06-10T11:55:00+00:00",
+                            "expires": "2020-06-10T12:25:00+00:00",
+                            "senderName": "Dipartimento della Protezione Civile",
+                            "message": {
+                                "it": {
+                                    "headline": "Test allerta",
+                                    "description": "Testo del messaggio di allerta meteo che avvisa di un evento meteo temporalesco estremo",
+                                    "alertColorDescription": "rossa"
+                                },
+                                "en": {
+                                    "headline": "Test alert",
+                                    "description": "Text of the weather alert message that warns of an extreme thunderstorm weather event",
+                                    "alertColorDescription": "red"
+                                }
+                            },
+                            "resources": [
+                                {
+                                    "resourceDesc": "CAP-IT XML",
+                                    "mimeType": "text/xml",
+                                    "uri": "https://raw.githubusercontent.com/pcm-dpc/Alert-Hub/master/cap-it/XML/PCM-DPC--e0826d22-270e-4060-9761-5117abe1fef1.xml"
+                                },
+                                {
+                                    "resourceDesc": "CAP-IT GeoJSON",
+                                    "mimeType": "application/json",
+                                    "uri": "https://raw.githubusercontent.com/pcm-dpc/Alert-Hub/master/cap-it/GEOJson/PCM-DPC--e0826d22-270e-4060-9761-5117abe1fef1.json"
+                                }
+                            ]
+                        },
+                        "stroke": "#a0a0a0",
+                        "stroke-width": 2,
+                        "stroke-opacity": 0.5,
+                        "fill": "#aaaaaa",
+                        "fill-opacity": 0.5
+                    }
+                },
+                {
+                    "arcs": [
+                        [1]
+                    ],
+                    "type": "Polygon",
+                    "properties": {
+                        "id": 2,
+                        "Name": "115004 Montesilvano (PE)",
+                        "Time": "2020-06-10T12:00+30",
+                        "featureStatus": "Updated",
+                        "capData": {
+                            "identifier": "ec793783-1d0e-4e9c-bf1b-6bd9bb463461",
+                            "sender": "PCM-DPC",
+                            "sent": "2020-06-10T12:00:00+00:00",
+                            "source": "DPC-Centro-Funzionale-Centrale",
+                            "effective": "2020-06-10T12:00:00+00:00",
+                            "expires": "2020-06-10T12:30:00+00:00",
+                            "senderName": "Dipartimento della Protezione Civile",
+                            "message": {
+                                "it": {
+                                    "headline": "Test allerta",
+                                    "description": "Testo del messaggio di allerta meteo che avvisa di un evento meteo temporalesco estremo",
+                                    "alertColorDescription": "rossa"
+                                },
+                                "en": {
+                                    "headline": "Test alert",
+                                    "description": "Text of the weather alert message that warns of an extreme thunderstorm weather event",
+                                    "alertColorDescription": "red"
+                                }
+                            },
+                            "resources": [
+                                {
+                                    "resourceDesc": "CAP-IT XML",
+                                    "mimeType": "text/xml",
+                                    "uri": "https://raw.githubusercontent.com/pcm-dpc/Alert-Hub/master/cap-it/XML/PCM-DPC--ec793783-1d0e-4e9c-bf1b-6bd9bb463461.xml"
+                                },
+                                {
+                                    "resourceDesc": "CAP-IT GeoJSON",
+                                    "mimeType": "application/json",
+                                    "uri": "https://raw.githubusercontent.com/pcm-dpc/Alert-Hub/master/cap-it/GEOJson/PCM-DPC--ec793783-1d0e-4e9c-bf1b-6bd9bb463461.json"
+                                }
+                            ]
+                        },
+                        "stroke": "#a0a0a0",
+                        "stroke-width": 2,
+                        "stroke-opacity": 0.5,
+                        "fill": "#aaaaaa",
+                        "fill-opacity": 0.5
+                    }
+                },
+                {
+                    "arcs": [
+                        [2]
+                    ],
+                    "type": "Polygon",
+                    "properties": {
+                        "id": 3,
+                        "Name": "115004 Pescara (PE)",
+                        "Time": "2020-06-10T12:10+30",
+                        "featureStatus": "Updated",
+                        "capData": {
+                            "identifier": "5c9a368e-f32d-4aac-bdce-7736bed3f712",
+                            "sender": "PCM-DPC",
+                            "sent": "2020-06-10T12:10:00+00:00",
+                            "source": "DPC-Centro-Funzionale-Centrale",
+                            "effective": "2020-06-10T12:10:00+00:00",
+                            "expires": "2020-06-10T12:40:00+00:00",
+                            "senderName": "Dipartimento della Protezione Civile",
+                            "message": {
+                                "it": {
+                                    "headline": "Test allerta",
+                                    "description": "Testo del messaggio di allerta meteo che avvisa di un evento meteo temporalesco estremo",
+                                    "alertColorDescription": "rossa"
+                                },
+                                "en": {
+                                    "headline": "Test alert",
+                                    "description": "Text of the weather alert message that warns of an extreme thunderstorm weather event",
+                                    "alertColorDescription": "red"
+                                }
+                            },
+                            "resources": [
+                                {
+                                    "resourceDesc": "CAP-IT XML",
+                                    "mimeType": "text/xml",
+                                    "uri": "https://raw.githubusercontent.com/pcm-dpc/Alert-Hub/master/cap-it/XML/PCM-DPC--5c9a368e-f32d-4aac-bdce-7736bed3f712.xml"
+                                },
+                                {
+                                    "resourceDesc": "CAP-IT GeoJSON",
+                                    "mimeType": "application/json",
+                                    "uri": "https://raw.githubusercontent.com/pcm-dpc/Alert-Hub/master/cap-it/GEOJson/PCM-DPC--5c9a368e-f32d-4aac-bdce-7736bed3f712.json"
+                                }
+                            ]
+                        },
+                        "stroke": "#a0a0a0",
+                        "stroke-width": 2,
+                        "stroke-opacity": 0.5,
+                        "fill": "#aaaaaa",
+                        "fill-opacity": 0.5
+                    }
+                },
+                {
+                    "arcs": [
+                        [3]
+                    ],
+                    "type": "Polygon",
+                    "properties": {
+                        "id": 4,
+                        "Name": "115004 Mare",
+                        "Time": "2020-06-10T12:20+30",
+                        "featureStatus": "New",
+                        "capData": {
+                            "identifier": "7aee510c-a7b4-4010-b7cb-9e94aa80d298",
+                            "sender": "PCM-DPC",
+                            "sent": "2020-06-10T12:20:00+00:00",
+                            "status": "Actual",
+                            "msgType": "Update",
+                            "source": "DPC-Centro-Funzionale-Centrale",
+                            "scope": "Public",
+                            "code": "CAP-IT:1.0",
+                            "references": "PCM-DPC,e0826d22-270e-4060-9761-5117abe1fef1,2020-06-10T11:55:00+00:00 PCM-DPC,ec793783-1d0e-4e9c-bf1b-6bd9bb463461,2020-06-10T12:00:00+00:00 PCM-DPC,5c9a368e-f32d-4aac-bdce-7736bed3f712,2020-06-10T12:10:00+00:00",
+                            "category": "Met",
+                            "event": "met-thrm",
+                            "responseType": "Shelter",
+                            "urgency": "Immediate",
+                            "severity": "Extreme",
+                            "certainty": "Observed",
+                            "effective": "2020-06-10T12:20:00+00:00",
+                            "expires": "2020-06-10T12:50:00+00:00",
+                            "senderName": "Dipartimento della Protezione Civile",
+                            "web": "https://xxx/",
+                            "contact": "https://xxx/feedback/",
+                            "message": {
+                                "it": {
+                                    "statusDescription": "Allerta",
+                                    "msgTypeDescription": "Aggiornata",
+                                    "categoryDescription": "Meteorologia",
+                                    "eventDescription": "Temporale",
+                                    "responseTypeDescription": "Mettersi al riparo",
+                                    "urgencyDescription": "Immediata",
+                                    "severityDescription": "Estrema",
+                                    "certaintyDescription": "Osservata",
+                                    "headline": "Test allerta",
+                                    "description": "Testo del messaggio di allerta meteo che avvisa di un evento meteo temporalesco estremo",
+                                    "instructions": {
+                                        "code": "001-it",
+                                        "text": "Altre informazioni testuali"
+                                    },
+                                    "alertColorDescription": "rossa",
+                                    "IoNonRischioUrl": "https://www.xxxxxxxxxxx/0001-en.html"
+                                },
+                                "en": {
+                                    "language": "en-US",
+                                    "statusDescription": "Alert",
+                                    "msgTypeDescription": "Update",
+                                    "categoryDescription": "Meteorology",
+                                    "eventDescription": "Thunderstorm",
+                                    "responseTypeDescription": "Take shelter",
+                                    "urgencyDescription": "Immediate",
+                                    "severityDescription": "Extreme",
+                                    "certaintyDescription": "Observed",
+                                    "headline": "Test alert",
+                                    "description": "Text of the weather alert message that warns of an extreme thunderstorm weather event",
+                                    "instructions": {
+                                        "code": "001-en",
+                                        "text": "Other textual instruction"
+                                    },
+                                    "alertColorDescription": "red",
+                                    "IoNonRischioUrl": "https://www.xxxxxxxxxxx/0001-en.html"
+                                }
+                            },
+                            "parameters": {
+                                "eventID": 115004,
+                                "Area": 180,
+                                "HRI": 1.435,
+                                "SSI": 4.2046,
+                                "SRI": 216.81,
+                                "VMI": 63.5,
+                                "VIL": 62,
+                                "POH": 0.7755,
+                                "ETM": 9440,
+                                "TOP": 8120,
+                                "LGT": 2,
+                                "Pers": 20,
+                                "SRT": 21.479,
+                                "SRT_3": 21.384,
+                                "SRT_24": 9,
+                                "Vel": 30,
+                                "Dir": 92,
+                                "Cor": 0.8459,
+                                "impactedMunicipalities": [
+                                    {
+                                        "code": 68024,
+                                        "name": "Montesilvano",
+                                        "latitude": 42.510208,
+                                        "longitude": 14.1437
+                                    },
+                                    {
+                                        "code": 68028,
+                                        "name": "Pescara",
+                                        "latitude": 42.510208,
+                                        "longitude": 14.1437
+                                    }
+                                ],
+                                "impactedProvinces": [
+                                    {
+                                        "code": 68,
+                                        "name": "Pescara",
+                                        "acronym": "PE",
+                                        "latitude": 42.46458398,
+                                        "longitude": 14.21364822
+                                    }
+                                ],
+                                "impactedRegions": [
+                                    {
+                                        "code": 13,
+                                        "name": "Abruzzo",
+                                        "latitude": 42.35122196,
+                                        "longitude": 13.39843823
+                                    }
+                                ]
+                            },
+                            "resources": [
+                                {
+                                    "resourceDesc": "CAP-IT XML",
+                                    "mimeType": "text/xml",
+                                    "uri": "https://raw.githubusercontent.com/pcm-dpc/Alert-Hub/master/cap-it/XML/PCM-DPC--7aee510c-a7b4-4010-b7cb-9e94aa80d298.xml"
+                                },
+                                {
+                                    "resourceDesc": "CAP-IT GeoJSON",
+                                    "mimeType": "application/json",
+                                    "uri": "https://raw.githubusercontent.com/pcm-dpc/Alert-Hub/master/cap-it/GEOJson/PCM-DPC--7aee510c-a7b4-4010-b7cb-9e94aa80d298.json"
+                                }
+                            ]
+                        },
+                        "stroke": "#aa0000",
+                        "stroke-width": 2,
+                        "stroke-opacity": 0.6,
+                        "fill": "#ff0000",
+                        "fill-opacity": 0.6
+                    }
+                }
+            ]
+        }
+    }
+}
